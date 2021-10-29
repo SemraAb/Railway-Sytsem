@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\AAAA\AAAA\bin\Debug\AAAA.exe.config
+C:\Users\lenovo\source\repos\AAAA\AAAA\bin\Debug\AAAA.exe
+C:\Users\lenovo\source\repos\AAAA\AAAA\bin\Debug\AAAA.pdb
+C:\Users\lenovo\source\repos\AAAA\AAAA\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\lenovo\source\repos\AAAA\AAAA\obj\Debug\AAAA.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\AAAA\AAAA\obj\Debug\AAAA.Form1.resources
+C:\Users\lenovo\source\repos\AAAA\AAAA\obj\Debug\AAAA.Properties.Resources.resources
+C:\Users\lenovo\source\repos\AAAA\AAAA\obj\Debug\AAAA.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\AAAA\AAAA\obj\Debug\AAAA.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\AAAA\AAAA\obj\Debug\AAAA.csproj.CopyComplete
+C:\Users\lenovo\source\repos\AAAA\AAAA\obj\Debug\AAAA.exe
+C:\Users\lenovo\source\repos\AAAA\AAAA\obj\Debug\AAAA.pdb
+C:\Users\lenovo\source\repos\AAAA\AAAA\obj\Debug\AAAA.MainForm.resources
